@@ -126,3 +126,4 @@ with col2:
                 st.warning("No previous games found.")
 
 st.caption("Developed using Streamlit + NumPy + Pandas + MongoDB. No chess library used.")
+
